@@ -66,4 +66,16 @@ class BookController extends Controller
         $book->delete();
         return $this->successResponse($book);
     }
+
+
+    public function searchByAuthor(Request $request){
+        $rules =[
+            'author_id' => 'required|min:1'
+        ];
+        $this->validate($request, $rules);
+        $author_id = $request->author_id;
+        $book = Book::where('author_id', $author_id)->get();
+
+        return $this->successResponse($book);
+    }
 }

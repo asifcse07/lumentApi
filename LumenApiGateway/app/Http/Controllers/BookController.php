@@ -47,4 +47,9 @@ class BookController extends Controller
     public function destroy($book){
         return $this->successResponse($this->bookService->deleteBook($book));
     }
+
+
+    public function searchByAuthor(Request $request){
+        return $this->successResponse($this->bookService->searchBookbyAuthor($request->all(), Response::HTTP_CREATED));
+    }
 }

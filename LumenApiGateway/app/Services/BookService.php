@@ -39,4 +39,8 @@ Class BookService{
 	public function deleteBook($book){
 		return $this->performRequest('DELETE', "/books/{$book}");
 	}
+
+	public function searchBookbyAuthor($data){
+		return $this->performRequest('POST', '/books', $data);
+	}
 }
