@@ -17,12 +17,12 @@ class AuthenticateAccess
     public function handle($request, Closure $next)
     {
         $validSecrets = explode(',', env('ACCEPTED_SECRETS'));
-        // print_r($request->header('Authorization')); die();
+//         print_r($request->header('Authorization')); die();
 
         if(in_array($request->header('Authorization'), $validSecrets)){
             return $next($request);
         }
-        
+
         abort(401);
     }
 }

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LumenBooksApi/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/broadcasting" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/bus" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/config" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/console" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/container" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/database" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/encryption" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/events" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/hashing" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/http" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/log" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/pagination" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/pipeline" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/queue" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/session" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/support" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/validation" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/illuminate/view" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/laravel/lumen-framework" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/LumenBooksApi/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

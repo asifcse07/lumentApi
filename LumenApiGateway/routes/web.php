@@ -29,9 +29,9 @@ $router->group(['middleware' => 'client.credentials'], function () use ($router)
 	$router->get('/books/{book}', 'BookController@show');
 	$router->put('/books/{book}', 'BookController@update');
 	$router->patch('/books/{book}', 'BookController@update');
-	$router->delete('/books/{book}', 'BookController@destroy');	
+	$router->delete('/books/{book}', 'BookController@destroy');
 	$router->post('/books', 'BookController@searchByAuthor');
-	
+
 	$router->get('/', function(){
 		return view('greeting', ['name' => 'James']);
 	});
